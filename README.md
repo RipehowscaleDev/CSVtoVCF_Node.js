@@ -19,6 +19,12 @@ npm install vcards-js
 
 
 node pypyto.js
+
 node pypytobys.js
+
 node pypytomass.js
+
+node pypyto_outbound.js
+
 node spittysplit.js
+
