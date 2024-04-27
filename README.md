@@ -5,6 +5,8 @@ but its a foundationd solid enough to experiment csv to vcf
 
 its working with android vcf files and windows vcf files hasnt tried it on ubuntu although im an ubuntu lover
 
+should work on both platform
+
 
 
 mkdir my-project
