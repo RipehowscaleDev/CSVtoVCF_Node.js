@@ -16,3 +16,9 @@ npm init -y
 npm install csv-parser
 
 npm install vcards-js
+
+
+node pypyto.js
+node pypytobys.js
+node pypytomass.js
+node spittysplit.js
